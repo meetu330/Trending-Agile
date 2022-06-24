@@ -1,0 +1,467 @@
+@media only screen and (min-width:1400px) {
+    .container {
+        max-width: 1366px;
+    }
+}
+
+@media only screen and (min-width:991px) {
+    .menu-btn {
+        display: none;
+    }
+}
+
+@media only screen and (min-width:768px) {
+    .main-banner .slick-slide img {
+        display: none;
+    }
+}
+
+@media only screen and (max-width:1650px) {
+    .site-header {
+        padding: 24px 15px;
+    }
+    .main-navigation ul.menu > li {
+        padding: 0 30px;
+    }
+}
+
+@media only screen and (max-width:1400px) {
+    h1 {
+        font-size:60px;
+    }
+    .get-in-touch-section h3 {
+        font-size: 28px;
+    }
+    .get-in-touch-section .contact-info-block {
+        padding-left: 75px;
+    }
+    .get-in-touch-section .form-block {
+        padding-right: 75px;
+    }
+    .certificate-process-section ul li {
+        padding: 0 60px;
+        font-size: 17px;
+    }
+    .certificate-process-section ul li .img-box:after {
+        right: -65%;
+        width: 70%;
+        -webkit-transform: translateX(-246%);
+        transform: translateX(-246%);
+    }
+    .main-navigation ul.menu > li {
+        padding: 0 15px;
+    }
+    .header-contact-info a.btn {
+        margin-left: 15px;
+    }
+    .banner-item .banner-details p {
+        font-size: 30px;
+    }
+    .banner-item .banner-details h1 span:after {
+        margin-left: 20px;
+    }
+}
+ 
+@media only screen and (max-width:1350px) {
+    .site-header {
+        padding-left: 0;
+        padding-right: 0;
+    }
+    .header-contact-info {
+        font-size: 17px;
+    }
+    .header-contact-info a.btn {
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+    .site-header a.logo img {
+        max-width: 230px;
+    }
+    .main-navigation ul.menu {
+        font-size: 15px;
+    }
+    .header-contact-info {
+        font-size: 15px;
+    }
+    .header-contact-info a.btn {
+        font-size: 15px;
+    }
+    .header-contact-info a.call {
+        background-size: 20px;
+    }
+}
+
+@media only screen and (max-width:1200px) {
+    h1 {
+        font-size: 75px;
+    }
+    .site-footer a.footer-logo img {
+        max-width: 240px;
+    }
+    .counter-section {
+        font-size: 24px;
+        padding-top: 120px;
+        padding-bottom: 110px;
+    }
+    .counter-section .count-number {
+        font-size: 70px;
+    }
+    .get-certified-section .certificate-box .details {
+        padding: 0 15px;
+    }
+    .get-certified-section .certificate-box .details p {
+        line-height: 22px;
+        margin-bottom: 15px;
+    }
+    .get-certified-section .certificate-box .details h3 {
+        line-height: 32px;
+        margin-bottom: 11px;
+        padding-bottom: 10px;
+    }
+    .certificate-process-section ul li {
+        padding: 0 40px;
+    }
+    .certificate-process-section ul li .img-box:after {
+        right: 15px;
+        width: 40%;
+    }
+    .banner-item .banner-details p {
+        font-size: 32px;
+    }
+    .main-navigation ul.menu > li {
+        padding: 0 10px;
+    }
+    .header-contact-info a.btn {
+        margin-left: 10px;
+        min-width: 120px;
+    }
+    .site-header a.logo img {
+        max-width: 210px;
+    }
+}
+
+@media only screen and (max-width:1024px) {}
+
+@media only screen and (max-width:990px) {
+    body {
+        padding-top: 90px !important;
+    }
+    h2 {
+        font-size: 42px;
+    }
+    .newsletter-form {
+        margin-top: 50px;
+    }
+    .get-in-touch-section .form-block .row:not(:last-child) {
+        margin-bottom: 0;
+    }
+    .get-in-touch-section .form-block .row:not(:last-child) > div {
+        margin-bottom: 20px;
+    }
+    .get-in-touch-section .form-block .wpcf7-submit {
+        float: left;
+        width: 100%;
+    }
+    .client-testimonials blockquote {
+        padding-right: 0;
+    }
+    .counter-section {
+        font-size: 18px;
+        padding-top: 80px;
+        padding-bottom: 70px;
+    }
+    .counter-section .count-number {
+        font-size: 60px;
+    }
+    .get-certified-section {
+        padding: 50px 0 20px 0;
+    }
+    .get-certified-section .certificate-box {
+        margin-bottom: 30px;
+    }
+    .certificate-process-section ul li {
+        padding: 0 15px;
+        font-size: 16px;
+    }
+    .certificate-process-section .img-box {
+        width: 125px;
+        height: 125px;
+    }
+    .certificate-process-section ul li .img-box:after {
+        right: 80px;
+        width: 20px;
+    }
+    .certificate-process-section ul li .box-1 .img-box {
+        background-position: -3px -22px;
+    }
+    .certificate-process-section ul li .box-2 .img-box {
+        background-position: -125px -25px;
+    }
+    .certificate-process-section ul li .box-3 .img-box {
+        background-position: -262px -23px;
+    }
+    .certificate-process-section ul li .box-4 .img-box {
+        background-position: -391px -23px;
+    }
+    .header-contact-info {
+        display: none;
+    }
+    .main-navigation {
+        display: none;
+    }
+    .site-header.sticky {
+        padding: 24px 0;
+    }
+    .menu-main-menu-container {
+        margin-bottom: 30px;
+    }
+    #nav.leftslide .textwidget a {
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+    #nav.leftslide .textwidget a.call {
+        color: #333;
+    }
+    #nav.leftslide .textwidget a.btn {
+        display: none;
+    }
+    .certificate-process-section ul li:hover .box-1 .img-box {
+        background-position: -3px -102px;
+    }
+    .certificate-process-section ul li:hover .box-2 .img-box {
+        background-position: -124px -106px;
+    }
+    .certificate-process-section ul li:hover .box-3 .img-box {
+        background-position: -263px -104px;
+    }
+    .certificate-process-section ul li:hover .box-4 .img-box {
+        background-position: -390px -104px;
+    }
+    .additional-details {
+        margin-bottom: 50px;
+    }
+}
+
+@media only screen and (max-width:767px) {
+    body {
+        font-size: 13px;
+        padding-top: 80px !important;
+    }
+    .form-control {
+        font-size: 14px;
+    }
+    .btn-primary {
+        font-size: 16px;
+        padding: 8px 20px;
+    }
+    .btn-secondary {
+        min-width: 130px;
+        padding: 0.4rem 0.45rem;
+        font-size: 14px;
+    }
+    h1 {
+        font-size: 48px;
+    }
+    h2 {
+        font-size: 32px;
+    }
+    h3,
+    .get-in-touch-section h3 {
+        font-size: 24px;
+    }
+    .form-control {
+        height: 40px;
+    }
+    .site-footer {
+        padding-top: 50px;
+        font-size: 15px;
+    }
+    .footer-links {
+        margin-top: 50px;
+    }
+    .footer-links ul li:not(:last-child) {
+        margin-bottom: 15px;
+    }
+    .footer-links h3,
+    .newsletter-form h3 {
+        margin-bottom: 20px;
+    }
+    .social-icons .list-inline-item:not(:last-child) {
+        margin-right: 15px;
+    }
+    .footer-logo-details {
+        line-height: 22px;
+        padding-right: 0;
+    }
+    .site-footer a.footer-logo img {
+        max-width: 210px;
+    }
+    .social-icons img {
+        max-height: 20px;
+    }
+    .site-footer .site-info {
+        padding-bottom: 16px;
+        padding-top: 20px;
+        margin-top: 20px;
+    }
+    .get-in-touch-section .form-block {
+        padding-right: 15px;
+        padding-bottom: 10px;
+        padding-top: 40px;
+    }
+    .get-in-touch-section .contact-info-block {
+        padding-left: 15px;
+        padding-top: 40px;
+        padding-bottom: 40px;
+    }
+    .get-in-touch-section .contact-info-block:before {
+        content: "";
+        background: #005d98;
+        position: absolute;
+        left: -100%;
+        top: 0;
+        height: 100%;
+        width: 100%;
+    }
+    .get-in-touch-section .contact-info-block ul li {
+        font-size: 16px;
+    }
+    .get-in-touch-section .contact-info-block ul li a {
+        font-size: 15px;
+    }
+    .testimonials-section {
+        padding: 50px 0;
+    }
+    .client-testimonials blockquote {
+        line-height: 24px;
+    }
+    .client-testimonials {
+        font-size: 15px;
+        margin-top: 40px;
+    }
+    .slick-dots {
+        margin-top: 40px;
+    }
+    .client-testimonials blockquote {
+        background-size: 45px;
+        padding-top: 60px;
+    }
+    .about-section {
+        padding-top: 50px;
+    }
+    .about-image {
+        padding-left: 15px;
+    }
+    .counter-section {
+        padding-bottom: 30px;
+    }
+    .counter-section p.count-text {
+        margin-bottom: 30px;
+    }
+    .certificate-process-section {
+        padding: 70px 0 0px 0;
+    }
+    .certificate-process-section ul li {
+        text-align: center;
+        width: 50%;
+        float: left;
+    }
+    .certificate-process-section .img-box {
+        display: inline-block;
+        margin-bottom: 0;
+    }
+    .certificate-process-section ul li .img-box:after {
+        display: none;
+    }
+    .certificate-process-section ul li .process-box .img-box + span {
+        display: inline-block;
+        width: 100%;
+        margin-bottom: 50px;
+    }
+    .banner-item {
+        background: none !important;
+        height: auto !important;
+    }
+    .banner-item .container {
+        position: relative;
+        height: auto;
+        width: 100%;
+        max-width: 100%;
+        padding: 0;
+    }
+    .banner-item .banner-details {
+        left: 20px;
+    }
+    .banner-item .banner-details h1 {
+        font-size: 18px;
+        margin-bottom: 0;
+    }
+    .banner-item .banner-details p {
+        font-size: 12px;
+        /*color: #fff;*/
+        margin-bottom: 5px;
+    }
+    .banner-item .banner-details h1 span:after {
+        width: 40px;
+        height: 2px;
+        margin-left: 5px;
+    }
+    .banner-item .banner-details .btn {
+        display: none;
+    }
+    .main-banner .slick-dots {
+        margin: -40px 0 0 0;
+    }
+    .newsletter-form .wpcf7-submit {
+        width: 100%;
+    }
+    .site-header a.logo img {
+        max-width: 170px;
+    }
+    .menu-btn {
+        top: 15px;
+    }
+    .site-header.sticky a.logo img {
+        max-width: 170px;
+    }
+    .counter-section .count-number {
+        font-size: 42px;
+    }
+    .container,
+    .container-fluid {
+        padding-left: 30px;
+        padding-right: 30px;
+    }
+    #nav.leftslide .textwidget a.call {
+        color: #333;
+        position: absolute;
+        top: 30px;
+        left: 20px;
+        font-size: 18px;
+        font-weight: 600;
+        background: url(../images/phone-icon2.png) no-repeat 0 0;
+        padding-left: 30px;
+    }
+    .menu-main-menu-container {
+        margin-bottom: 0;
+        margin-top: 40px;
+    }
+    .slick-dots li {
+        width: 12px;
+        height: 12px;
+        margin: 0 5px;
+    }
+    .slick-dots li button {
+        width: 12px;
+        height: 12px;
+    }
+    .certificate-details-content h1 {
+        font-size: 32px;
+    }
+    .certificate-details-content .skills-btn-group li a {
+        font-size: 13px;
+        padding: 7px 10px;
+    }
+}
+
+@media only screen and (max-width:479px) {}
